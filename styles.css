@@ -1,0 +1,33 @@
+.red-text {
+  color: red;
+}
+
+#author {
+  color:rgb(107, 107, 107)
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+body {
+  background-color: rgb(233, 239, 245);
+}
+
+img {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  border-radius: 15px;
+  
+
+}
+
+p {
+  text-align: center;
+}
